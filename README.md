@@ -32,9 +32,13 @@ A comprehensive description of what your project does, its goals, and why it’s
 [Introduction](#introduction)
 ---
 [Getting Started](#getting-started)
+---
   - [Prerequisites](#prerequisites)
+---
   - [Installation](#installation)
+---
   - [Running the Application](#running-the-application)
+---
 [Usage](#usage)
   - [Examples](#examples)
   - [Configuration](#configuration)
