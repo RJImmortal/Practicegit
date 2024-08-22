@@ -34,25 +34,33 @@ A comprehensive description of what your project does, its goals, and why it’s
 [Getting Started](#getting-started)
 ---
   - [Prerequisites](#prerequisites)
----
   - [Installation](#installation)
----
   - [Running the Application](#running-the-application)
 ---
 [Usage](#usage)
   - [Examples](#examples)
   - [Configuration](#configuration)
+---
 [Features](#features)
+---
 [Architecture](#architecture)
+---
 [API Documentation](#api-documentation)
   - [Endpoints](#endpoints)
   - [Authentication](#authentication)
+---
 [Testing](#testing)
+---
 [Deployment](#deployment)
+---
 [Contributing](#contributing)
+---
 [Roadmap](#roadmap)
+---
 [License](#license)
+---
 [Acknowledgements](#acknowledgements)
+---
 [Contact](#contact)
 
 ## Introduction
