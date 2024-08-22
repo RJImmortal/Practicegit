@@ -30,6 +30,7 @@ A comprehensive description of what your project does, its goals, and why it’s
 ## Table of Contents
 
 [Introduction](#introduction)
+---
 [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
