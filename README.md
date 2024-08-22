@@ -8,6 +8,9 @@ this is one stop shop website
 ----
 -)
 (c) (C) (r) (R) (tm) (TM) (p) (P)
+---
 **Bold**
+---
 __Strong__
+---
 *Italic*
