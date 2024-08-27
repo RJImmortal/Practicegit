@@ -1,4 +1,4 @@
-# Practicegit :)
+# Practicegit :smile:
 
 # heading1
 ## heading2
